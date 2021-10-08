@@ -8,5 +8,7 @@ public class Main {
 
         // Output Hello with Name included in correct format //
         System.out.println("Hello, my name is " + name + ".");
+        // Addition from Jonathan Schwendinger //
+        System.out.println("Hello " + name + ", my name is Jonathan.");
     }
 }
